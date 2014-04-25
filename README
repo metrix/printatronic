@@ -1,0 +1,13 @@
+3D Printatronics code
+
+Much of this code is intended to run on ATTiny85s or Arduinos.
+
+The ATTiny85 code is intended for the Printatronic boards:
+USB/I2C translator board: https://upverter.com/motred/60e118fbf5a2c22f/3DPrintronics-USBI2C-translator/
+barrel jack power board: https://upverter.com/motred/4f06d2e793d72859/3DPrintronics-Wired-Power/
+5V boost board: https://upverter.com/motred/1892a1c868ed07be/3DPrintronics-Boost/
+Accelerometer board: https://upverter.com/motred/fe8ea98348e919e4/3DPrintronics-Accel/
+RGB LED board: https://upverter.com/motred/5578b45628d26597/3DPrintronics-RGB/
+Vibrating Motor board: https://upverter.com/motred/ce7ce1214c79dd06/3DPrintronics-vibrating-motor/
+Phototransistor board: https://upverter.com/motred/b45c722728cb884a/3DPrintronics-Phototransistor/
+button: https://upverter.com/motred/adfbd58c7962ec62/3DPrintronics-button/
