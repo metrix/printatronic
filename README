@@ -1,4 +1,7 @@
-3D Printatronics code
+Printatronic 
+
+A modular electronics toolkit designed for 3D printed objects
+
 
 Much of this code is intended to run on ATTiny85s or Arduinos.
 
