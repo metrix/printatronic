@@ -67,7 +67,7 @@ void setup()
 
 
   // Whatever other setup routines
-  pinMode(input, button);
+  pinMode(button, INPUT);
   write_flag = false;
 }
 
